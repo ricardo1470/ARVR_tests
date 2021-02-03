@@ -4,7 +4,7 @@
 
 | **Filename** | **Description** |
 |---|---|
-| [House](./firts_ARVR/AR_test) | house outside, house inside 360 ° tour |
+| [House](./Assets/) | house outside, house inside 360 ° tour |
 ---
 > ## contact 💬
 
