@@ -1,6 +1,8 @@
 > # ARVR_tests
 ---
-<a href="ARVR_test"><img align="center" src="ARVR_test.jpg"></a>
+<p align="center">
+    <a href="ARVR_test"><img src="ARVR_test.jpg"></a>
+</p>
 
 | **Filename** | **Description** |
 |---|---|
